@@ -1,0 +1,10 @@
+python
+io
+os
+re
+h5py
+numpy
+errno
+datetime
+pyqtgraph
+dxchange
